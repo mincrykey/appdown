@@ -1,8 +1,11 @@
-【版本名】1.2.0【版本名】
-【版本】20【版本】
+【版本名】1.3.2【版本名】
+【版本】24【版本】
 【内容】
-1.新增我的好友
-2.整合关于页面
-3.修复了一部分bug
+1.全新整合个人中心
+2.对多个页面的UI设计进一步优化
+3.小程序中心的入口移动到侧边栏啦
+4.试试像使用iOS那样右滑返回吧
+5.新增实验性功能“夜间模式”
+6.修复了一些使用中的BUG
 【内容】
-【链接】https://vikjs.oss-ap-southeast-1.aliyuncs.com/apk/VikACG_1.2.0-signed.apk【链接】
+【链接】https://vikjs.oss-ap-southeast-1.aliyuncs.com/apk/VikACG_1.3.2-signed.apk【链接】
