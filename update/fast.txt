@@ -1,7 +1,6 @@
-【版本名】1.0.0【版本名】
-【版本】1【版本】
+【版本名】1.0.1【版本名】
+【版本】2【版本】
 【内容】
-1.可以直接复制分享文本啦
-2.阅读页面新增评论区按钮
+修复BUG，提升稳定性
 【内容】
-【链接】https://cdn.vikacg.com/apk/VikACG_1.4.2-signed.apk【链接】
+【链接】https://cdn.vikacg.com/apk/Vfast_1.0.1-signed.apk【链接】
