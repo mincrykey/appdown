@@ -1,6 +1,7 @@
-【版本名】1.0.2【版本名】
-【版本】3【版本】
+【版本名】1.0.3【版本名】
+【版本】4【版本】
 【内容】
-修复BUG，提升稳定性
+1.修复BUG，提升稳定性
+2.顶部新增疫情查看（来源丁香园）
 【内容】
-【链接】https://app.vikacg.com/down/kapk/kd_1.0.2-signed.apk【链接】
+【链接】https://app.vikacg.com/down/kapk/kd_1.0.3-signed.apk【链接】
