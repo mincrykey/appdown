@@ -1,9 +1,6 @@
-【版本名】1.6.5【版本名】
-【版本】46【版本】
+【版本名】1.6.6【版本名】
+【版本】47【版本】
 【内容】
-现在所有系统可以升级了
 1.修复BUG，提升稳定性
-2.撤下了疫情动态，换上了维咔看点
-是的没错，我们的新产品维咔看点已经发布啦，点击左上角导航栏“报纸”图标即可体验网页版，也可以在网页版底部下载独立App哦：app.vikacg.com/k/
 【内容】
-【链接】https://app.vikacg.com/down/mapk/VikACG_1.6.5-signed.apk【链接】
+【链接】https://app.vikacg.com/down/mapk/VikACG_1.6.6-signed.apk【链接】
