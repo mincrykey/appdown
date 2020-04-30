@@ -1,6 +1,7 @@
-【版本名】1.6.6【版本名】
-【版本】47【版本】
+【版本名】1.6.7【版本名】
+【版本】48【版本】
 【内容】
-1.修复BUG，提升稳定性
+1.根据相关隐私披露条例，我们进行了一些细微的更改
+2.下线加入QQ群的入口
 【内容】
-【链接】https://app.vikacg.com/down/mapk/VikACG_1.6.6-signed.apk【链接】
+【链接】https://app.vikacg.com/down/mapk/VikACG_1.6.7-signed.apk【链接】
