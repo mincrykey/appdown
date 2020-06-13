@@ -1,6 +1,6 @@
-【版本名】1.6.8【版本名】
-【版本】49【版本】
+【版本名】1.6.9【版本名】
+【版本】50【版本】
 【内容】
-安全性内容重大更新，虽然无功能更新但是对于保护您的信息安全是非常有必要的
+更新了应用图标
 【内容】
-【链接】https://app.vikacg.com/down/mapk/VikACG_1.6.8-signed.apk【链接】
+【链接】https://app.vikacg.com/down/mapk/VikACG_1.6.9-signed.apk【链接】
