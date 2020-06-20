@@ -1,6 +1,6 @@
-【版本名】1.6.9【版本名】
-【版本】50【版本】
+【版本名】1.6.10【版本名】
+【版本】51【版本】
 【内容】
-更新了应用图标
+修复BUG，提升稳定性
 【内容】
-【链接】https://app.vikacg.com/down/mapk/VikACG_1.6.9-signed.apk【链接】
+【链接】https://app.vikacg.com/down/mapk/VikACG_1.6.10-signed.apk【链接】
