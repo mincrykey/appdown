@@ -1,6 +1,6 @@
-【版本名】1.6.10【版本名】
-【版本】51【版本】
+【版本名】1.7.0【版本名】
+【版本】52【版本】
 【内容】
-修复BUG，提升稳定性
+非常抱歉诸位咔友，本次更新修复了一系列逻辑漏洞，此更新是必备的，也请您尽快更新，否则会影响后续体验
 【内容】
-【链接】https://app.vikacg.com/down/mapk/VikACG_1.6.10-signed.apk【链接】
+【链接】https://app.vikacg.com/down/mapk/VikACG_1.7.0-signed.apk【链接】
