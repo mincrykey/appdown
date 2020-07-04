@@ -1,6 +1,5 @@
-【版本名】1.7.1【版本名】
-【版本】53【版本】
+【版本名】1.7.2【版本名】
+【版本】54【版本】
 【内容】
-非常抱歉诸位咔友，本次更新修复了一系列逻辑漏洞，此更新是必备的，也请您尽快更新，否则会影响后续体验
-【内容】
-【链接】https://app.vikacg.com/down/mapk/VikACG_1.7.1-signed.apk【链接】
+切换回默认内核
+【链接】https://app.vikacg.com/down/mapk/VikACG_1.7.2-signed.apk【链接】
