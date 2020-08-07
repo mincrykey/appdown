@@ -1,5 +1,5 @@
-【版本名】1.7.2【版本名】
-【版本】54【版本】
+【版本名】1.7.4【版本名】
+【版本】56【版本】
 【内容】
-切换回默认内核
-【链接】https://app.vikacg.com/down/mapk/VikACG_1.7.2-signed.apk【链接】
+提升撰写文章体验
+【链接】https://app.vikacg.com/down/mapk/VikACG_1.7.4-signed.apk【链接】
