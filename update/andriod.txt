@@ -1,6 +1,7 @@
-【版本名】1.7.5【版本名】
-【版本】57【版本】
+【版本名】1.7.6【版本名】
+【版本】58【版本】
 【内容】
-新增底部“极速下载”板块
+1.修复BUG
+2.更正了“关于VikACG”的提示文字
 【内容】
-【链接】https://app.vikacg.com/down/mapk/VikACG_1.7.5-signed.apk【链接】
+【链接】https://app.vikacg.com/down/mapk/VikACG_1.7.6-signed.apk【链接】
