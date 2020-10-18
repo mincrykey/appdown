@@ -1,7 +1,8 @@
-【版本名】1.7.7【版本名】
-【版本】59【版本】
+【版本名】1.7.9【版本名】
+【版本】61【版本】
 【内容】
-1.支持EMUI11智慧分屏
-2.修复了BUG
+新增归路指路碑，再也不怕迷路了
+
+如果遇到不能下载的，请到app.vikacg.com官网下载！
 【内容】
-【链接】https://app.vikacg.com/down/mapk/VikACG_1.7.7-signed.apk【链接】
+【链接】https://app.vikacg.com/down/mapk/VikACG_1.7.9-signed.apk【链接】
