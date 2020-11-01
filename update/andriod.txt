@@ -1,8 +1,9 @@
-【版本名】1.7.9【版本名】
-【版本】61【版本】
+【版本名】1.7.10【版本名】
+【版本】62【版本】
 【内容】
-新增归路指路碑，再也不怕迷路了
+1.更新了描述细节
+2.增强了更新模块的抗污染模式，以后再也不会出现更新不了了
 
 如果遇到不能下载的，请到app.vikacg.com官网下载！
 【内容】
-【链接】https://app.vikacg.com/down/mapk/VikACG_1.7.9-signed.apk【链接】
+【链接】https://app.vikacg.com/down/mapk/VikACG_1.7.10-signed.apk【链接】
