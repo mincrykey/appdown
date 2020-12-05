@@ -1,9 +1,11 @@
-【版本名】1.7.10【版本名】
-【版本】62【版本】
+【版本名】1.7.11【版本名】
+【版本】63【版本】
 【内容】
-1.更新了描述细节
-2.增强了更新模块的抗污染模式，以后再也不会出现更新不了了
+1.关于vikacg增加新的邮箱域的列表
+2.post页面支持#vikaview 跳转vikaview
+3.小程序中心下架
+4.手动更新直接访问github
 
-如果遇到不能下载的，请到app.vikacg.com官网下载！
+如果遇到不能下载的，请到www.vicacg.com官网下载！
 【内容】
-【链接】https://app.vikacg.com/down/mapk/VikACG_1.7.10-signed.apk【链接】
+【链接】https://www.vicacg.com/res/VikACG_1.7.11-signed.apk【链接】
