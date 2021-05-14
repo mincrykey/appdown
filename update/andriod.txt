@@ -1,8 +1,8 @@
-【版本名】1.7.12【版本名】
-【版本】64【版本】
+【版本名】1.7.15【版本名】
+【版本】67【版本】
 【内容】
-新增防封官网
+优化链接效果
 
 如果遇到不能下载的，请到www.vicacg.com官网下载！
 【内容】
-【链接】https://www.vicacg.com/res/VikACG_1.7.12-signed.apk【链接】
+【链接】https://www.vicacg.com/res/VikACG_1.7.15-signed.apk【链接】
